@@ -1,3 +1,22 @@
-.text-color-gold{
-    color: #e9aa50 !important;
+.text-color-gold {
+  color: #e9aa50 !important;
+}
+
+.bg-gold {
+  background-color: #e9aa50 !important;
+  color: white;
+}
+
+.separator-div {
+  border: #e9aa50 solid 2px;
+  width: 90%;
+  border-radius: 50%;
+}
+
+.navbar {
+  background-color: black;
+}
+
+html {
+  scroll-behavior: smooth;
 }
